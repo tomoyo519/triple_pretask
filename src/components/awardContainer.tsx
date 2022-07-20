@@ -4,6 +4,7 @@ import {
   AwardAppleItem,
   AwardMetric,
 } from '../style/awardContainer.js'
+
 import { useMounted } from '../hooks/useMount'
 
 export default function AwardContainer() {
